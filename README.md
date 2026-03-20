@@ -40,7 +40,8 @@ Features
 Insights Gained
 
 * Identified cities with highest pollution levels
-* Observed seasonal trends in air quality
-* Found key pollutants contributing to poor AQI
+* PM2.5 was the major contributor to high AQI levels in most cities
+* AQI levels were significantly higher during winter months
+* Some cities consistently showed higher pollution compared to others
 
 
