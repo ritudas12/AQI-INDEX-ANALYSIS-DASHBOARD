@@ -31,6 +31,7 @@ Features
 * Contains pollutant concentration levels and timestamps
 
  Dashboard Preview
+ ![image alt](https://github.com/ritudas12/AQI-INDEX-ANALYSIS-DASHBOARD/blob/a0353db4536594fdfdb315b322404da0e1e8501b/Screenshot%20(6).png)
 
 
 
