@@ -44,8 +44,3 @@ Insights Gained
 * Found key pollutants contributing to poor AQI
 
 
-
-
-
-Feel free to connect with me for feedback or collaboration!
-
